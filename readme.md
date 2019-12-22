@@ -8,6 +8,9 @@
 - run migration: `php artisan migrate`
 - run seeder: `php artisan db:seed`
 
+*Before Logging in, run the ff:*
+- `npm run dev`
+
 *Login Credential*
-email: godwinh@gmail.com
-password: password
+- email: godwinh@gmail.com
+- password: password
