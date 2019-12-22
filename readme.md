@@ -1,3 +1,6 @@
+**Framework:**
+- Laravel 5.6
+
 **Requirements:**
 - [X] php 7.1
 - [X] npm 10.x
