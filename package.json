@@ -20,7 +20,7 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "jquery-validation": "^1.19.1",
+        "jquery-validation": "^1.19.3",
         "uuid": "^3.3.3"
     }
 }
